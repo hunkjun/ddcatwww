@@ -1,0 +1,5 @@
+## Run command
+
+```
+docsify serve .
+```
